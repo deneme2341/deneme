@@ -2,5 +2,5 @@ def f():
 	print("selam")
 
 
-def y():
+def yz():
 	print("merhaba)	
